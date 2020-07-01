@@ -16,6 +16,7 @@ public class RGB extends JFrame implements ActionListener{
     label1.setBounds(10,10,100,20);
     add(label1);
 
+    //Probando algo
     combo1 = new JComboBox();
     combo1.setBounds(120,10,50,30);
     for(int i = 0; i <= 255; i++){
